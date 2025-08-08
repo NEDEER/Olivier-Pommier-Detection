@@ -8,23 +8,23 @@ This project uses a YOLOv8 model to detect **olivier (olive trees)** and **pommi
 
 ### 📈 Training Performance
 
-![Results](./results.png)
+![Results](./train/results.png)
 
 ### 🔍 Confusion Matrix
 
 - **Raw**  
-  ![Confusion Matrix](./confusion_matrix.png)
+  ![Confusion Matrix](./train/confusion_matrix.png)
 
 - **Normalized**  
-  ![Confusion Matrix Normalized](./confusion_matrix_normalized.png)
+  ![Confusion Matrix Normalized](./train/confusion_matrix_normalized.png)
 
 ### 📊 Precision-Recall Curve
 
-![PR Curve](./BoxPR_curve.png)
+![PR Curve](./train/BoxPR_curve.png)
 
 ### 🏷️ Label Distribution
 
-![Labels](./labels.jpg)
+![Labels](./train/labels.jpg)
 
 ---
 
